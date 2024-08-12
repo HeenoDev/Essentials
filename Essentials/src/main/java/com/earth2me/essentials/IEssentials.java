@@ -56,6 +56,8 @@ public interface IEssentials extends Plugin {
 
     User getUser(UUID base);
 
+    User getUser(UUID base);s
+
     User getUser(String base);
 
     User getUser(Player base);
